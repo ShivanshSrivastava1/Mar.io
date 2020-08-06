@@ -7,9 +7,9 @@ Invite Mar.io to your server using this [link](https://discord.com/oauth2/author
 ## Commands
 **Note: Leave out the square brackets when running a command**
 
-.join - Joins the voice channel the user is currently in
+.join - Joins the voice channel the command user is currently in
 
-.leave - Leaves the voice channel the user is currently in
+.leave - Leaves the voice channel the command user is currently in
 
 .kick [user mention] [optional reason] - Kicks the target user from the server if the command user has Admin privileges. The command user can also provide an optional kick reason, which will be saved to the server audit log
 
@@ -23,7 +23,7 @@ Invite Mar.io to your server using this [link](https://discord.com/oauth2/author
 
 .clear [optional number] - Clears a certain number of most recent messages in the current text channel. The default number is 5, but it can be changed
 
-.8ball [question] - Answers the user’s question like the Magic 8 Ball would
+.8ball [question] - Answers the command user’s question like the Magic 8 Ball would
 
 .wiki [search term] - Searches Wikipedia for the given term and returns a summary from the most relevant article
 
