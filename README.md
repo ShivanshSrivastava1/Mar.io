@@ -28,4 +28,4 @@ Invite Mar.io to your server using this [link](https://discord.com/oauth2/author
 **.wiki [search term]** - Searches Wikipedia for the given term and returns a summary from the most relevant article
 
  ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT License](https://choosealicense.com/licenses/mit/)
