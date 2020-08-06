@@ -2,7 +2,7 @@
 Mar.io is a Discord bot written in Python. Its features include streamlined server moderation, music playback, and simple Wikipedia searches.
 
 ## Install
-Invite Mar.io to your server using the [link](https://discord.com/oauth2/authorize?client_id=738092825463226368&permissions=8&scope=bot).
+Invite Mar.io to your server using this [link](https://discord.com/oauth2/authorize?client_id=738092825463226368&permissions=8&scope=bot).
 
 ## Commands
 **Note: Leave out the square brackets when running a command**
