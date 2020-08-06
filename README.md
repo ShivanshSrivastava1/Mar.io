@@ -11,9 +11,9 @@ Invite Mar.io to your server using this [link](https://discord.com/oauth2/author
 
 **.leave** - Leaves the voice channel the command user is currently in
 
-**.kick [user mention]** **[optional reason]** - Kicks the target user from the server if the command user has Admin privileges. The command user can also provide an optional kick reason, which will be saved to the server audit log
+**.kick [user mention]** **[optional reason]** - Kicks the target user from the server if the command user has Admin privileges. The command user can also provide a kick reason, which will be saved to the server audit log
 
-**.ban [user mention]** **[optional reason]** - Bans the target user from the server if the command user has Admin privileges. The command user can also provide an optional ban reason, which will be saved to the server audit log
+**.ban [user mention]** **[optional reason]** - Bans the target user from the server if the command user has Admin privileges. The command user can also provide a ban reason, which will be saved to the server audit log
 
 **.unban [user mention]** - Unbans the target user from the server if the command user has Admin privileges
 
@@ -21,7 +21,7 @@ Invite Mar.io to your server using this [link](https://discord.com/oauth2/author
 
 **.ping** - Returns the command user’s current ping
 
-**.clear [optional number]** - Clears a certain number of most recent messages in the current text channel. The default number is 5, but it can be changed
+**.clear [optional number]** - Clears a certain number of most recent messages in the current text channel. The default number is 5, but any valid number can be manually inputted
 
 **.8ball [question]** - Answers the command user’s question like the Magic 8 Ball would
 
